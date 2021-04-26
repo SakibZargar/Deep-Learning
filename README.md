@@ -4,4 +4,8 @@ This repository contains various Deep Learning codes that I have written over th
 
 01_Feed-forward Neural Network Implementation from scratch in numpy.ipynb
 
-02_CNN for Analyzing Image Data (Sign detection + Emotion detection +)
+02_CNN_Sign Detection using TensorFlow
+
+03_CNN_Emotion Detection using Keras
+
+04_CNN_Sign Detection with ResNEt50 using Keras
